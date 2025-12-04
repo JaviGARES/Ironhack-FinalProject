@@ -67,7 +67,7 @@ and feeds the combined vector into a tuned XGBoost regressor.
 ├── .gitignore                    # Git ignore rules
 ├── README.md                     # Project documentation
 ├── main.ipynb                    # Full training pipeline: tabular, CNN, hybrid
-├── Presentation.pptx             # Project presentation slides
+├── Presentation.pdf              # Project presentation slides
 │
 └── streamlit_app/
     ├── app.py                    # Streamlit demo application
@@ -224,7 +224,7 @@ Inside `streamlit_app/models`:
 
 ## 📊 Presentation
 
-A detailed project presentation is available in `Presentation.pptx`, covering:
+A detailed project presentation is available in `Presentation.pdf`, covering:
 - Problem statement and motivation
 - Data exploration and insights
 - Modeling approach and architecture
